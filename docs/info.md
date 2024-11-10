@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Uses an and gate to make a seven on the LED display.
 
 ## How to test
 
-Explain how to use your project
+Toggle the 3 and 4 on in the switch, and it will print out a seven on the LED display.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED display
